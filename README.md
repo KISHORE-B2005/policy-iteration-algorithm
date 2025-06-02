@@ -1,6 +1,7 @@
 # POLICY ITERATION ALGORITHM
 #### Name:KISHORE.B
 #### Register Number: 212222110020
+#### DATE:
 ## AIM
 To develop a Python program to find the optimal policy for the given MDP using the policy iteration algorithm.
 
